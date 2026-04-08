@@ -14,13 +14,13 @@
     Assumindo que se está no directório que inclui os directórios 'pacmanist' e 'client',deve-se compilar e executar priemiro o servidor,da seguinte   forma (ja dentro do diretorio 'pacmanist'):
       COMPILAÇAO: make 
       EXECUÇAO: ./bin/Pacmanist levels  3 /tmp/pacman_server
-      *'3' é o numero maximo de users que se podem conectar ao msm tempo ao servidor,caso ja esteje cheio,os users a mais serão postos 
+        *'3' é o numero maximo de users que se podem conectar ao msm tempo ao servidor,caso ja esteje cheio,os users a mais serão postos 
       numa lista de espera 
     
   De seguida,com novas instancias de terminal ,entrar no diretorio 'client', compilar e executar da seguinte forma :
       COMPILAÇAO: make
       EXECUÇAO: ./bin/client 3 /tmp/pacman_server
-      *'3' neste caso é o identificador do user(cada user tem id unico)
+         *'3' neste caso é o identificador do user(cada user tem id unico)
 
 #FERRAMENTAS USADAS:
     Linguagem C,
