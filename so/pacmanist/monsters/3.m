@@ -1,0 +1,3 @@
+PASSO 0
+POS 6 1
+R

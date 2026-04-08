@@ -1,0 +1,18 @@
+fopenPacman connectAbriu, pacman connect
+vai abrir notif pipeAbout to read reply from notif_pipe
+Read 2 bytes, Received reply: 1 0
+Command: S
+Command: S
+Command: S
+Command: S
+Command: S
+Command: S
+Command: S
+Command: S
+Command: D
+Command: D
+Command: W
+Command: W
+Command: W
+Command: D
+Returning receiver thread...
